@@ -1,0 +1,39 @@
+.blog{
+    width: 650px;
+    border: 2px solid transparent;
+    margin: 20px auto;
+    border-left: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    padding: 0pc 20px;
+}
+
+img{
+    width: 100%;
+}
+.blog-card{
+    position: relative;
+}
+.tag{
+    position: absolute;
+    border: 2px solid lightgray;
+    background-color: transparent;
+    color: white;
+    top: 0;
+    border-radius: 10px;
+    padding: 4px 15px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: cursive;
+    
+}
+.tag2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: white;
+    margin: 10px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    padding: 4px 15px;
+    font-family: cursive;
+}
